@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alarissamelo
-- 👀 I’m interested in back-end programming and Data Engineering.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on developing data ingestion projects.
+- 👀 I’m interested in Data Engineering, Machine Learning and Artificial Intelligence.
+- 🌱 I’m currently learning Python and Cloud Infrastructures.
+- 💞️ I’m looking to collaborate on developing data science projects.
 - 📫 Reach me on LinkedIn @alarissamelo or alarissameloo@gmail.com;
 
 <!---
